@@ -16,3 +16,6 @@ Then the password will display in the text box
 
 ## Mock Up 
 ![password mockup](https://github.com/CCUE96/Ez-Password/assets/159393541/f17d117b-ab5f-42f4-b58e-8a441bc0551f)
+
+## Deployed Pages
+https://github.com/CCUE96/Ez-Password https://ccue96.github.io/Ez-Password/
